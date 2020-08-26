@@ -21,7 +21,8 @@ This project was created for my A-Level Computer Science coursework. This was cr
 In order for the application to run on your machine the following software must also be installed:
 -	Java (https://java.com/en/download/)
 -	Java Development Kit (JDK) (https://www.oracle.com/uk/java/technologies/javase-downloads.html) <br><br>
-Please download and extract all the files from the repository and then launch CrazyEights.jar to open the games main menu.
+
+#### Please download and extract all the files from the repository and then launch CrazyEights.jar to open the games main menu.
 
 ### Status
 Although the game is fully playable in its current state, I would like to add the reverse direction functionality to a future version of the game as well as removing the need to click the next button between each players turn to give a smoother, less cluttered experience.
