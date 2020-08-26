@@ -8,10 +8,10 @@ This is a recreation of the crazy eights card game, written in Java using jFrame
 This project was created for my A-Level Computer Science coursework. This was created over the course of a few months along with extensive development logs & documentation. I had only just began learning Java before creating this project and I decided, along with my teacher, that creating my coursework in Java would be a great way to learn the language and quickly pick up knowledge and skills along the way. Whilst I do not think Java was the best choice for creating a game as it introduced many limitations and difficulties as this is not its typical use, it allowed me to create a working and effective project to be assessed and allowed me to better get to grips with the language. 
 
 ### Screenshots
-**Main game view: **
+**Main game view:**
 ![Main game view](crazyEights1.png)
 
-**Leader board view: **
+**Leader board view:**
 ![Leader board view](crazyEights2.png)
 
 ### API used
